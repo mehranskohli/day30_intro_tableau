@@ -1,0 +1,5 @@
+https://public.tableau.com/profile/mehran.kohli#!/vizhome/RetailSales_15732133646920/RetailSales?publish=yes
+
+https://public.tableau.com/profile/mehran.kohli#!/vizhome/RetailTransfers/RetailTransfers?publish=yes
+
+https://public.tableau.com/profile/mehran.kohli#!/vizhome/WarehouseSales/WarehouseTransfers?publish=yes
